@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on Blog web app<br>I’m currently learning System Design<br>Reach me  mohammadsaad925s4s@gmail.com<br>Fun fact I am Socrates sometime Shakespeare<br>MERN Stack Dev | Exploring System Design | Building Systems & Exploring Ideas.
-
+I’m currently working on Blog web app<br>I’m currently learning System Design<br>Reach me  mohammadsaad925s4s@gmail.com<br>Fun fact I am Socrates sometime Shakespeare<br>Full Stack Developer, Turning Ideas into Code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-saad-714815245) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mohdsaadshaikh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@saad_shaikhi) 
