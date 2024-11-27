@@ -21,6 +21,7 @@ I'm Muhammad Saad Shaikh, A programming enthusiast who turn innovative ideas int
 
 ## Recent Blogs:
 - [Ultimate Guide to Routing in Next.js](https://medium.com/@mohdsaadshaikh/ultimate-guide-to-routing-in-next-js-everything-you-need-to-know-9a8c75fe6647)
+- [Say Goodbye to Redux Toolkit and Context API](https://medium.com/@mohdsaadshaikh/say-goodbye-to-redux-toolkit-and-context-api-b2c66487f955)
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohdsaadshaikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohdsaadshaikh&theme=dark&hide_border=false)<br/>
